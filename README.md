@@ -1,4 +1,8 @@
-# Modal-$.ajax({
+# Modal-
+
+
+
+$.ajax({
        url:"" ,
        type:"" ,
        data:{
