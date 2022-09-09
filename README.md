@@ -1,4 +1,4 @@
-# Modal-
+# Ajax to call method from controller
 
 
 
